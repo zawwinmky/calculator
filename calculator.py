@@ -6,7 +6,7 @@ from numpy.ma.core import multiply
 
 # Create the main window
 root = Tk()
-root.title("Simple Calculator App")
+root.title("Simple Calculator App by DCS-146")
 root.geometry("400x300")
 root.configure(bg="lightskyblue")
 
